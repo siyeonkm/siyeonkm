@@ -19,7 +19,6 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-%23007396.svg?style=flat&logo=Java&logoColor=ffffff)
   ![C++](https://img.shields.io/badge/-C++-%2300599C.svg?style=flat&logo=C%2B%2B&logoColor=ffffff)
-  ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=ffffff)
 - 🌐 &nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-%236DB33F.svg?style=flat&logo=Spring&logoColor=ffffff)
@@ -36,8 +35,6 @@
 - 🖥 &nbsp;
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=ffffff)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=ffffff)
-- ⛑ &nbsp;
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
