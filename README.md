@@ -30,7 +30,6 @@
 - 🛠 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=ffffff)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=ffffff)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=ffffff)
   ![Unity](https://img.shields.io/badge/unity-000000.svg?style=flat&logo=unity&logoColor=ffffff)
 - 🖥 &nbsp;
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=ffffff)
